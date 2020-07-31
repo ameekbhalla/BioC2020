@@ -1,4 +1,4 @@
-# [BioC 2020](http://bioc2020.bioconductor.org/index): Workshop completed with exercises 
+# [BioC 2020](http://bioc2020.bioconductor.org/index): Workshops completed with exercises 
 
 ## 100 level
 * [Introduction to Bioconductor annotation resources](https://github.com/jmacdon/Bioc2020Anno/)
